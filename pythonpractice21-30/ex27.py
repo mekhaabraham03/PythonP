@@ -1,1 +1,1 @@
-#Learning Logic
+#Learning Logic- paper memorization
